@@ -47,6 +47,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Forgot Password - TrashTrace</title>
     <link rel="stylesheet" href="css/forgot_pass.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="forgot-container">
@@ -78,6 +79,5 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             </form>
         </div>
     </div>
-    <script src="js/forgot_pass.js"></script>
 </body>
 </html>
